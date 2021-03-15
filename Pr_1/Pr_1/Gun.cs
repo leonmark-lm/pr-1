@@ -30,6 +30,9 @@ namespace Pr_1
             set { shotRange = value; }
         }
 
+       public Gun(){
+	}
+
         
     }
 
